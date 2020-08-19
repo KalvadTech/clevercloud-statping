@@ -1,0 +1,17 @@
+{
+    "name": "statping-clever-cloud",
+    "version": "1.0.0",
+    "description": "statping on clevercloud",
+    "scripts": {
+        "start": "./run.sh"
+    },
+    "author": "Loic Tosser <wowi42>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KalvadTech/statping-clever-cloud/issues"
+    },
+    "homepage": "https://github.com/KalvadTech/statping-clever-cloud#readme",
+    "engines": {
+        "node": "^14"
+    }
+}
